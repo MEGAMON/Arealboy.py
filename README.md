@@ -1,2 +1,0 @@
-# Arealboy.py
-e
